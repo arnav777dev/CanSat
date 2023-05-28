@@ -1,13 +1,13 @@
-void sim_bmp() {
-  char c = XBee.read();
-  if (c == '<') {
-    sim_pr = "";
-    c = XBee.read();
-    while (c != '>') {
-      sim_pr += c;
-      c = XBee.read();
-    }
-  }
+// void sim_bmp() {
+//   char c = XBee.read();
+//   if (c == '<') {
+//     sim_pr = "";
+//     c = XBee.read();
+//     while (c != '>') {
+//       sim_pr += c;
+//       c = XBee.read();
+//     }
+//   }
 
   int simulated_pressure = sim_pr.toInt();
    
