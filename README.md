@@ -19,6 +19,9 @@ Welcome to the Cansat repository! This project showcases my role as the Integrat
 - **Technologies**: Python, PyQt, Matplotlib
 - **Outcome**: Enabled dynamic data visualization and analysis, improving decision-making processes.
 
+![WhatsApp Image 2024-06-19 at 00 13 36_f663fb42](https://github.com/arnav777dev/CanSat_Payload/assets/98037912/10b61319-2408-4e8f-acbb-a000b2587f52)
+
+
 ### Advanced Analytical Tools for Data Insights
 - **Description**: Designed and implemented analytical tools within a GUI to provide in-depth data insights.
 - **Technologies**: Python, Pandas, SciPy
